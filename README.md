@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mouad%20Chouai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Master's%20Student%20%7C%20Aspiring%20Data%20Engineer&descAlignY=58&descSize=18" alt="Mouad Chouai banner" />
+# Hi, I'm Mouad Chouai 👋
+
+### AI & Data Science Master's Student | Aspiring Data Engineer
 
 <a href="https://github.com/justMouad">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9FE0&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mouad+%F0%9F%91%8B;Building+end-to-end+data+pipelines;Real-time+streaming+with+Kafka+%26+Spark;Turning+raw+data+into+valuable+insights" alt="Typing animation" />
