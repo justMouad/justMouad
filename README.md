@@ -85,7 +85,10 @@ I enjoy working across the whole data lifecycle: ingesting data in real time, mo
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=justMouad&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph" width="95%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=justMouad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+<img src="https://img.shields.io/github/followers/justMouad?style=for-the-badge&logo=github&color=2c9fe0&labelColor=0f2027" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/justMouad?style=for-the-badge&logo=github&color=2c9fe0&labelColor=0f2027" alt="Stars"/>
+<img src="https://img.shields.io/github/created-at/justMouad?style=for-the-badge&logo=github&color=2c9fe0&labelColor=0f2027&label=Joined" alt="Joined"/>
+<img src="https://img.shields.io/github/commit-activity/y/justMouad/realtime-cdc-lakehouse?style=for-the-badge&logo=git&color=2c9fe0&labelColor=0f2027&label=Commits%20this%20year" alt="Commits this year"/>
 
 </div>
 
