@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c9fe0&height=230&section=header&text=Mouad%20Chouai&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Master's%20Student%20%7C%20Aspiring%20Data%20Engineer&descSize=18&descAlignY=60" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c9fe0&height=230&section=header&text=Mouad%20Chouai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Data%20Science%20Master%20Student%20%7C%20Aspiring%20Data%20Engineer&descSize=18&descAlignY=60" alt="header" width="100%"/>
 
 <a href="https://github.com/justMouad">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9FE0&center=true&vCenter=true&width=720&lines=Building+end-to-end+data+pipelines+%E2%9A%99%EF%B8%8F;Real-time+streaming+with+Kafka+%26+Spark+%E2%9A%A1;Change+Data+Capture+with+Debezium+%F0%9F%94%81;Turning+raw+data+into+valuable+insights+%F0%9F%93%8A" alt="Typing animation" />
